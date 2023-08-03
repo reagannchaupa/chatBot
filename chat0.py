@@ -21,7 +21,7 @@ def ask_chatbot(prompt):
 
 # Use that function to chat with the chatbot
 def chat():
-    # Continuously try to get a response from chatbot until user stops.
+    # Continuously try to get and print a response from chatbot until user stops.
     try:
         while True:
             user_input = input("You: ")
