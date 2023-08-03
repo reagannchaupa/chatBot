@@ -2,7 +2,7 @@
 
 import openai
 
-# Setup to API
+# Setup the API
 openai.api_key = "OPENAI_API_KEY"
 
 
