@@ -6,7 +6,7 @@ import openai
 openai.api_key = "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"
 
 
-# Define a function to intercat with the bot
+# Define a function to interact with the bot
 def ask_chatbot(prompt):
     response = openai.Completion.create(
         engine="gpt-3.5-turbo",
