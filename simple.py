@@ -3,7 +3,7 @@
 import openai
 
 # Setup to API
-openai.api_key = "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"
+openai.api_key = "OPENAI_API_KEY"
 
 
 # Define a function to interact with the bot
